@@ -1,0 +1,18 @@
+{
+    "html boilerplate": {
+        "prefix": "html",
+        "body": [
+            "<!doctype html>",
+            "\t<head>",
+            "\t\t<meta charset=\"utf-8\">",
+            "\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+            "\t\t<title>$1</title>",
+            "\t</head>",
+            "\t<body>",
+            "\t\t$2",
+            "\t</body>",
+            "</html>"
+        ],
+        "description": "Basic HTML boiler plate."
+    }
+}
