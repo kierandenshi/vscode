@@ -1,2 +1,2 @@
 # vscode
-VSCode setup
+VSCode settings and snippets
