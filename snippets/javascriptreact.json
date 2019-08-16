@@ -1,7 +1,7 @@
 {
     "component boilerplate": {
         "prefix": "comp",
-        "body": [
+			"body": [
 			"import React from 'react';",
 			"import PropTypes from 'prop-types';",
 			"",
@@ -14,7 +14,7 @@
 			"$1.propTypes = {};",
 			"",
 			"$1.defaultProps = {};",
-            "",
+			"",
 			"export default $1;",
 			""
         ],
