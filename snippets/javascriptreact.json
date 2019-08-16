@@ -2,21 +2,21 @@
     "component boilerplate": {
         "prefix": "comp",
         "body": [
-            "import React from 'react';",
-            "import PropTypes from 'prop-types';",
+			"import React from 'react';",
+			"import PropTypes from 'prop-types';",
+			"",
+			"const $1 = () => {",
+			"\treturn (",
+			"\t\t$2",
+			"\t);",
+			"};",
+			"",
+			"$1.propTypes = {};",
+			"",
+			"$1.defaultProps = {};",
             "",
-            "const $1 = ({$5}) => {",
-            "\t return (",
-            "\t\t$2",
-            "\t);",
-            "};",
-            "",
-            "$1.propTypes = {$3};",
-            "",
-            "$1.defaultProps = {$4};",
-                  "",
-            "export default $1;",
-            ""
+			"export default $1;",
+			""
         ],
         "description": "Basic component boiler plate."
     }
